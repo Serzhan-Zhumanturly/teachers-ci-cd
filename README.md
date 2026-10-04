@@ -38,3 +38,7 @@ GitHub Actions көмегімен әрбір `push` және `pull request` ке
 4. pytest арқылы автоматты тестілеу орындалады.
 
 Pipeline нәтижесі GitHub-та **Actions** бөлімінде көрсетіледі.
+
+## Coursework
+
+Variant 12 - Teachers list with automated testing.
